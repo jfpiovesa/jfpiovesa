@@ -2,7 +2,7 @@
 
 <p align= "leftUp"> <img src= 'https://instagram.fqps2-1.fna.fbcdn.net/v/t51.2885-19/256873774_3274331652794540_5524363597531866683_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fqps2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=yOWXygXPsz4AX-Ar_8S&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBdybD1vad7S7-HswVf2ZLNGBY1jYO2pI-anKCnh_g3OA&oe=64CEA839&_nc_sid=8b3546' height='200'> </p>
 
-<p align= "rightUp"> Sou dedicado nas tarefas que executo, gosto de trabalhar em equipe, e entendo que problemas são desafios que necessitam de aprendizado para supera-los. Sou determinado e busco participar de projetos no desenvolvimento de softwares e de jogos digitais.</p>
+<p align= "left"> I am dedicated to the tasks I perform, I like to work in a team, and I understand that problems are challenges that need learning to overcome them. I am determined and seek to participate in projects in software development and digital games..</p>
 
 
 ## Details
