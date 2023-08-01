@@ -23,5 +23,5 @@
 ## Repositorios  Importantes
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jfpiovesa&repo=test_tell.me&theme=radical)](https://github.com/jfpiovesa/Tell.me)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jfpiovesa&repo=Tell.me&theme=radical)](https://github.com/jfpiovesa/Tell.me)
 
