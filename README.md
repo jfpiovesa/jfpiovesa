@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfpiovesa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## Redes sociais
-[<img src = 'ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' >](https://www.linkedin.com/in/jose-fernando-piovesan-798571113/)
+[<img src = 'ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='30' >](https://www.linkedin.com/in/jose-fernando-piovesan-798571113/)
 
           
 
