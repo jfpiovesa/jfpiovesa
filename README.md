@@ -9,9 +9,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfpiovesa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## Redes sociais
-[<img src = 'https://img.shields.io/badge/LinkedIn-0077B5' >](https://www.linkedin.com/in/jose-fernando-piovesan-798571113/)
+[<img src = 'ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' >](https://www.linkedin.com/in/jose-fernando-piovesan-798571113/)
 
-
+          
 
 ## Repositorios  Importantes
 
