@@ -2,7 +2,8 @@
 
 ## Skills 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](Img scr =<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">)
+![Unity](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jfpiovesa&show=reviews&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
