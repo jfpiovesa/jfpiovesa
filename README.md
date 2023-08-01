@@ -16,11 +16,10 @@
 ![Unreal](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jfpiovesa&show=reviews&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfpiovesa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jfpiovesa&show=reviews&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfpiovesa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## Trophy Stats
-![Trofeus](https://github-profile-trophy.vercel.app/?username=jfpiovesa&theme=radical)
+
 
 ## Redes sociais
 
@@ -32,9 +31,10 @@
 ## Repositorios  Importantes
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jfpiovesa&repo=Tell.me&theme=radical)](https://github.com/jfpiovesa/Tell.me)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jfpiovesa&repo=Battle-of-minds&theme=radical)](https://github.com/jfpiovesa/Battle-of-minds)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jfpiovesa&repo=Tell.me&theme=tokyonight)](https://github.com/jfpiovesa/Tell.me)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jfpiovesa&repo=Battle-of-minds&theme=tokyonight)](https://github.com/jfpiovesa/Battle-of-minds)
 
 
-
+## Trophy Stats
+![Trofeus](https://github-profile-trophy.vercel.app/?username=jfpiovesa&theme=tokyonight)
 
