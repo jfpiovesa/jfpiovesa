@@ -9,7 +9,7 @@
 * 🕹️ Unity Developer 🎮
 * 🎮 Game and app developer🎮
 * 🧑‍💼 I currently work at Royal Holding as a unity developer 🕹️
-
+<br><br>
 
 ## Skills 
 
@@ -17,10 +17,10 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+<br><br>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jfpiovesa&show=reviews&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfpiovesa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ## Redes sociais
