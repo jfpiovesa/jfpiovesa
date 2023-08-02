@@ -7,7 +7,9 @@
 
 ## Details
 * 🕹️ Unity Developer 🎮
+* 🎮 Game and app developer🎮
 * 🧑‍💼 I currently work at Royal Holding as a unity developer 🕹️
+
 
 ## Skills 
 
