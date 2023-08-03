@@ -26,7 +26,7 @@
 
 ## Redes sociais
 
-[<img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='30' >](https://www.linkedin.com/in/jose-fernando-piovesan-798571113/)
+[<img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='30' >](https://www.linkedin.com/in/jose-fernando-piovesan-798571113)
 
 ![Discord-](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) 👉 jfpiovesan 
 
