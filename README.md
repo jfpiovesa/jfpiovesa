@@ -20,8 +20,8 @@
 <br><br>
 
 
-![Status](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jfpiovesa&theme=tokyonight&show=reviews&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfpiovesa&layout=compact&theme=tokyonight&show=reviews&show_icons=true)
+![Status](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jfpiovesa&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfpiovesa&layout=compact&theme=tokyonight&show_icons=true)
 
 
 ## Redes sociais
