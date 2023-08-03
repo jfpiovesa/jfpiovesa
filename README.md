@@ -19,8 +19,9 @@
 ![Unreal](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 <br><br>
 
-![Status](https://github-readme-stats.vercel.app/api?username=jfpiovesa&show=reviews&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfpiovesa&layout=compact&theme=tokyonight)
+
+![Status](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jfpiovesa&theme=tokyonight&show=reviews&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfpiovesa&layout=compact&theme=tokyonight&show=reviews&show_icons=true)
 
 
 ## Redes sociais
